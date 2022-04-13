@@ -5,5 +5,5 @@
 @endsection
 
 @section('Main')
-    
+    Bima
 @endsection
