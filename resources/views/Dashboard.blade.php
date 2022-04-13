@@ -5,5 +5,5 @@
 @endsection
 
 @section('Main')
-    
+    Test
 @endsection
